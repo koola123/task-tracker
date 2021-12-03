@@ -4,7 +4,7 @@
       "id": 100,
       "text": "Buy Christmas gifts",
       "day": "Dec 15th at 2:30pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 200,
