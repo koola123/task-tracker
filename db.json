@@ -1,12 +1,6 @@
 {
   "tasks": [
     {
-      "id": 100,
-      "text": "Buy Christmas gifts",
-      "day": "Dec 15th at 2:30pm",
-      "reminder": true
-    },
-    {
       "id": 200,
       "text": "Book flight tickets & hotel for Hawaii",
       "day": "Dec 15th at 10:00am",
@@ -17,6 +11,12 @@
       "day": "Dec 15th at 2:00pm",
       "reminder": true,
       "id": 201
+    },
+    {
+      "text": "Let's go fishing!",
+      "day": "Dec 15th at 1:00pm",
+      "reminder": false,
+      "id": 202
     }
   ]
 }
