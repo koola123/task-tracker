@@ -4,7 +4,7 @@ To run the app: https://koola123.github.io/task-tracker
 
 **Step 1:**
 
--- Install Json server
+-- Install json-server
 
 **Step 2:**
 
